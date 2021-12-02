@@ -1,5 +1,5 @@
 # End-Term-Project-Assignment
-End Term Project "Discovering IoT Devices on the internet" for CSL7510 Course: Virtualization &amp; Cloud Computing
+"Discovering IoT Devices on the internet" : Santosh Kumar (P21CS013) & Aditya Raturi (P21CS001)
 
 **PROBLEM STATEMENT**
 
