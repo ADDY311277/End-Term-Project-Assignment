@@ -2,6 +2,7 @@
 End Term Project "Discovering IoT Devices on the internet" for CSL7510 Course: Virtualization &amp; Cloud Computing
 
 **PROBLEM STATEMENT**
+
 -IoT devices are vulnerable to attacks that can be compromised easily due to a lack of security. To identify these devices on the internet we can use three methods - link devices with domain name services, detect server IP address, or link manufacturer TLS certificates for discovery. 
 You can refer to the article - “Detecting IoT Devices on the Internet” for implementing the project. Use any of the three methods and show how a new IoT device can be discovered on the internet. 
 https://ieeexplore.ieee.org/abstract/document/9151339 
